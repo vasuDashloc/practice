@@ -1,0 +1,52 @@
+{
+  "tasks": [
+    {
+      "id": "2024-07-11T09:54:35.377Z",
+      "title": "Rest Api",
+      "isFav": true,
+      "completed": true
+    },
+    {
+      "id": "2024-07-11T11:32:08.504Z",
+      "title": "Pinia",
+      "isFav": true,
+      "completed": true
+    },
+    {
+      "id": "2024-07-11T11:32:25.936Z",
+      "title": "Nuxt concept",
+      "isFav": true,
+      "completed": true
+    },
+    {
+      "id": "2024-07-11T11:50:35.897Z",
+      "title": "Vue.js",
+      "isFav": false,
+      "completed": true
+    },
+    {
+      "id": "2024-07-11T11:50:55.254Z",
+      "title": "ES6 (javaScript)",
+      "isFav": false,
+      "completed": true
+    },
+    {
+      "id": "2024-07-11T11:51:02.100Z",
+      "title": "Html",
+      "isFav": false,
+      "completed": true
+    },
+    {
+      "id": "2024-07-11T11:51:06.091Z",
+      "title": "CSS",
+      "isFav": false,
+      "completed": true
+    },
+    {
+      "id": "2024-07-12T06:27:54.651Z",
+      "title": "Git",
+      "isFav": false,
+      "completed": false
+    }
+  ]
+}
